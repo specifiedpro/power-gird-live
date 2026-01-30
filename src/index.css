@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+/* Optional: make the app look like your design immediately */
+@layer base {
+  body {
+    margin: 0;
+  }
+}
